@@ -4,7 +4,7 @@
 
 <p align=justify>The implementations of the basic and advanced concepts of the Probability and Statistics.</p>
 
-<h4>Curriculum</h4>
+<h3>Curriculum</h3>
 <ol>
   <li>The Relative Frequency and Probability</li>
   <li>Probability Distributions</li>
